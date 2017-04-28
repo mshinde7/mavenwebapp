@@ -5,6 +5,6 @@ String gs = s.go();
 %>
 <html>
 <body>
-<h2>Welcome to my world !!! $gs</h2> 
+<h2>Welcome to my world !!!</h2> <%=gs %>
 </body>
 </html>
